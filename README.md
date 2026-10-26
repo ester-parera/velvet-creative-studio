@@ -54,6 +54,6 @@ Como la página utiliza PHP, es necesario tenerlo instalado y utilizar un servid
 
 Con este proyecto he practicado HTML, CSS y PHP, además de aprender a organizar una página web, adaptar su diseño a móviles y validar un formulario.
 
-También he trabajado aspectos básicos de SEO y seguridad que no había tenido en cuenta al empezar.
+También he trabajado aspectos básicos de SEO y seguridad en PHP.
 
 Este proyecto forma parte de mi aprendizaje en 2.º de Desarrollo de Aplicaciones Web (DAW).
